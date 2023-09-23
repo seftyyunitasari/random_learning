@@ -2,6 +2,12 @@
 
 This repository is used to save some learning materials.
 
-## References
+## Python
 
 - Matplotlib: https://www.youtube.com/watch?v=OZOOLe2imFo&ab_channel=NeuralNine
+- Python: https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg
+
+## Data Science
+
+- Data Science Methodology: https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science
+- Decision Tree Classifier: https://www.youtube.com/watch?v=RmajweUFKvM&ab_channel=Simplilearnyt
